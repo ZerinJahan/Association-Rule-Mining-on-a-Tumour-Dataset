@@ -1,2 +1,2 @@
-# Association-Rule-Mining-on-a-Tumour-Dataset
- Applying Rule-Mining Technique for Analysing Tumer Dataset
+# Application of Association Rule Mining on Tumor Dataset
+The project titled "Application of Association Rule Mining on Tumor Dataset" aims to uncover relationships between different types of tumors through the use of association rule mining. It involves feature extraction and the application of the Apriori algorithm to discover patterns and associations within tumor data. The project is developed using Python in Jupyter Notebook, with libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation, visualisation, and analysis of the association rules.
